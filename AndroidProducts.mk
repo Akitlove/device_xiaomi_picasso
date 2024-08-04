@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/derp_picasso.mk
+    $(LOCAL_DIR)/superior_picasso.mk
 
 COMMON_LUNCH_CHOICES := \
-    derp_picasso-user \
-    derp_picasso-userdebug \
-    derp_picasso-eng
+    superior_picasso-ap2a-user \
+    superior_picasso-ap2a-userdebug \
+    superior_picasso-ap2a-eng
