@@ -31,4 +31,4 @@ BUILD_WITH_GAPPS := true
 PRODUCT_BUILD_PROP_OVERRIDES += \
     PRIVATE_BUILD_DESC="picasso-user 14 AP2A.240705.004 11875680 release-keys"
 
-BUILD_FINGERPRINT := Redmi/picasso/picasso:14/AP2A.240705.004/11875680:user/release-keys
+BUILD_FINGERPRINT := google/panther/panther:14/AP2A.240705.004/11875680:user/release-keys

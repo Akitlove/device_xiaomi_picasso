@@ -17,7 +17,7 @@ static const variant_info_t picasso_info = {
     .device = "picasso",
     .marketname = "Redmi K30 5G",
     .model = "Redmi K30 5G",
-    .build_fingerprint = "Redmi/picasso/picasso:14/AP2A.240705.004/11875680:user/release-keys",
+    .build_fingerprint = "google/panther/panther:14/AP2A.240705.004/11875680:user/release-keys",
 
     .nfc = true,
 };
